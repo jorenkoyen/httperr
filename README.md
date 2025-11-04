@@ -1,5 +1,7 @@
 # httperr
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/jorenkoyen/httperr.svg)](https://pkg.go.dev/github.com/jorenkoyen/httperr)
+
 `httperr` is a minimal Go library that extends the standard [`net/http`](https://pkg.go.dev/net/http) package with *
 *explicit error handling** for HTTP handlers.
 
